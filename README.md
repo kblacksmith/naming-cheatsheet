@@ -1,4 +1,4 @@
-Изменение 3 ветка 2
+Изменения для шага 7 1
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
